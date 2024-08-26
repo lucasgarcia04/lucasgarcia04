@@ -6,7 +6,7 @@
 
 <a href="https://github.com/lucasgarcia04">
    <p>
-  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=JvSalim&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=lucasgarcia04&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
   <p>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
